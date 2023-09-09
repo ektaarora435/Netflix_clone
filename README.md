@@ -1,2 +1,4 @@
-# Netflix_clone
-Netflix Clone made using HTML, CSS and JavaScript.
+# Netflix-Clone
+Responsive Netflix Clone Designed using HTML, CSS, Bootstrap and Javascript.
+
+Deployed Link - https://netflixclone-lakshay.netlify.app
